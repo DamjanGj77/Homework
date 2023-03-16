@@ -1,0 +1,13 @@
+PS /home/damjan> nslookup az104-04-vm0.rade79.com ns1-33.azure-dns.com.  
+Server:         ns1-33.azure-dns.com.
+Address:        150.171.10.33#53
+
+Name:   az104-04-vm0.rade79.com
+Address: 10.40.0.4
+
+PS /home/damjan> nslookup az104-04-vm1.rade79.com ns1-33.azure-dns.com.
+Server:         ns1-33.azure-dns.com.
+Address:        150.171.10.33#53
+
+Name:   az104-04-vm1.rade79.com
+Address: 10.40.1.4
