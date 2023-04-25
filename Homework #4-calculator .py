@@ -40,7 +40,7 @@ Please type Y for YES or N for NO.
 
     if calc_again.upper() == 'Y':
         calculate()
-    elif calc_again.upper() == 'N':
+    elif calc_again.upper() == 'n':
         print('See you later.')
     else:
         again()
