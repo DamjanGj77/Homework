@@ -27,7 +27,7 @@ Please type in the math operation you would like to complete:
         print(number_1 / number_2)
 
     else:
-        print('You have not typed a valid operator, please run the program again!!!')
+        print('You have not typed a valid operator, please run the program again')
 
     # Add again() function to calculate() function
     again()
