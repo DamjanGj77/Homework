@@ -8,7 +8,7 @@ Please type in the math operation you would like to complete:
 ''')
 
     number_1 = int(input('Please enter the first number '))
-    number_2 = int(input('Please enter the second number: '))
+    number_2 = int(input('Please enter the second numbdadaer: '))
 
     if operation == '1':
         print('{} + {} = '.format(number_1, number_2))
@@ -18,7 +18,7 @@ Please type in the math operation you would like to complete:
         print('{} - {} = '.format(number_1, number_2))
         print(number_1 - number_2)
 
-    elif operation == '3':
+    elif operation == '4':
         print('{} * {} = '.format(number_1, number_2))
         print(number_1 * number_2)
 
